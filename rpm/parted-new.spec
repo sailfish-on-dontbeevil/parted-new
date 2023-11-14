@@ -8,7 +8,7 @@ URL:     http://www.gnu.org/software/parted
 Source0: %{name}-%{version}.tar.bz2
 
 Patch0: 0001-fix-sed-tests.patch
-Patch0: 0002-disable-unicode-test.patch
+Patch1: 0002-disable-unicode-test.patch
 
 BuildRequires: gcc
 BuildRequires: e2fsprogs-devel
