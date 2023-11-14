@@ -30,6 +30,7 @@ BuildRequires: python3-base
 BuildRequires: gperf
 BuildRequires: make
 BuildRequires: check-devel
+BuildRequires: rsync
 
 Provides:  parted
 Obsoletes: parted <= 3.1
